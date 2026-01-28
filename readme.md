@@ -1,12 +1,42 @@
-# TODO_BOOK_AUTHOR_NAME_YEAR
+# Stephanie Seneff - Tödliches Vermächtnis (2025)
 
-![TODO_BOOK_AUTHOR_NAME_YEAR](cover.avif)
+![Stephanie Seneff - Tödliches Vermächtnis (2025)](cover.avif)
 
-TODO_BOOK_STORE_URL
+https://www.amazon.de/dp/3952595489
 
 <blockquote>
 
-TODO_BOOK_STORE_DESCRIPTION
+Tödliches Vermächtnis: Wie das Unkrautvernichtungsmittel Glyphosat unsere Gesundheit und Umwelt zerstört
+
+Stephanie Seneff (Autor), Jens Wernicke (Nachwort), Wolfgang Wodarg (Mitwirkende), Hans-Michael Hackenberg (Übersetzer)
+
+4.7 out of 5 stars, (5) ratings
+
+Kein anderes Herbizid hat die landwirtschaftliche Massenproduktion so beeinflusst wie Glyphosat.
+Dabei wurden schädliche Auswirkungen auf Mensch und Natur jahrzehntelang ignoriert, verleugnet, vertuscht,
+kritische Wissenschaftler und Journalisten zum Schweigen gebracht.
+Kein Wunder, wird der weltweite Markt doch auf ein Volumen von etwa zehn Milliarden US-Dollar geschätzt
+und werden jährlich mindestens eine Million Tonnen des Unkrautvernichters versprüht.
+
+Nun liefert die ehemalige leitende Wissenschaftlerin des Massachusetts Institute of Technology (MIT) Dr. Stephanie Seneff
+unumstößliche Beweise für die verheerenden gesundheitlichen und ökologischen Wirkungen der Substanz und belegt,
+dass Glyphosat als wesentliche Ursache für die Entstehung von Zivilisationskrankheiten
+wie Autismus, Parkinson, Alzheimer, Autoimmun-Erkrankungen und Krebs anzusehen ist,
+wobei sich die schädigende Wirkung im Zusammenspiel mit anderen Giftstoffen noch verstärkt.
+
+- Herausgeber: Rubikon-Verlag
+- Erscheinungstermin: 20. Oktober 2025
+- Auflage: 1.
+- Sprache: Deutsch
+- Seitenzahl der Print-Ausgabe: 372 Seiten
+- ISBN-10: 3952595489
+- ISBN-13: 9783952595480
+- Abmessungen: 13.6 x 2.7 x 20.6 cm
+- Amazon Bestseller-Rang:
+  - Nr. 54.876 in Bücher
+  - Nr. 62 in Kriminalität in Wirtschaft & Politik
+  - Nr. 326 in Mafia & Organisiertes Verbrechen
+  - Nr. 351 in Erziehung (Bücher)
 
 </blockquote>
 
@@ -20,11 +50,11 @@ TODO_BOOK_TORRENT_MAGNET_LINK
 
 ## mirrors
 
-- https://github.com/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
+- https://github.com/milahu/toedliches-vermaechtnis-stephanie-seneff-2025
+- http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu/toedliches-vermaechtnis-stephanie-seneff-2025
+- http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/milahu/toedliches-vermaechtnis-stephanie-seneff-2025
+- http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu/toedliches-vermaechtnis-stephanie-seneff-2025
+- http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/milahu/toedliches-vermaechtnis-stephanie-seneff-2025
 
 
 
