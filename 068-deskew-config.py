@@ -1,7 +1,9 @@
 # config for 070-deskew.py
 
 # Threshold to consider a page "white" (mean lightness close to 100)
-WHITE_LIGHTNESS_THRESHOLD = 99.99
+# 099.984785 006.tiff
+# 099.887845 001.tiff
+WHITE_LIGHTNESS_THRESHOLD = 99.95
 
 # Threshold to consider a page "black" (mean lightness close to 0)
 # black page with little white text can have 0.49 to 0.84
