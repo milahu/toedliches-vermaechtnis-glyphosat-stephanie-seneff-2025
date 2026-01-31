@@ -35,6 +35,7 @@ args+=(
   --image-format avif
   --text-format html
   --doc-title "$doc_title"
+  --canonical-url-base https://milahu.github.io/toedliches-vermaechtnis-glyphosat-stephanie-seneff-2025/
 )
 todo_args+=(
   --doc-title ""
