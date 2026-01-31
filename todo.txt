@@ -1,17 +1,1 @@
-$ grep -o -E 'TODO.*$' * | uniq
-010-scan-cover.sh:TODO manually rotate and crop $o"
-030-measure-page-size.txt:TODO set config values
-050-measure-crop-size.txt:TODO set config values
-080-ocr-config.txt:TODO set config values
-090-ocr.sh:TODO? use OCRopus https://github.com/ocropus-archive/DUP-ocropy
-100-hocr2pdf.sh:TODO
-cover.webp.sh:TODO set config values
-license.txt:TODO_REPO_INIT_YEAR TODO_REPO_OWNER_FULLNAME
-readme.md:TODO_BOOK_AUTHOR_NAME_YEAR
-readme.md:TODO_BOOK_AUTHOR_NAME_YEAR](cover.webp)
-readme.md:TODO_BOOK_STORE_URL
-readme.md:TODO_BOOK_STORE_DESCRIPTION
-readme.md:TODO_BOOK_TORRENT_NAME
-readme.md:TODO_BOOK_TORRENT_MAGNET_LINK
-readme.md:TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-repos.txt:TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
+proofread from page 91
