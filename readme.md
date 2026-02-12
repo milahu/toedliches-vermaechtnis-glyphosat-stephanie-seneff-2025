@@ -42,10 +42,10 @@ wobei sich die schädigende Wirkung im Zusammenspiel mit anderen Giftstoffen noc
 
 ## scans
 
-### TODO_BOOK_TORRENT_NAME
+### toedliches.vermaechtnis.glyphosat.stephanie.seneff.2025.600dpi.tiff.german.book.scan
 
 ```
-TODO_BOOK_TORRENT_MAGNET_LINK
+magnet:?xt=urn:btih:a4ed9421aa886ed2af9ce2aaa08185b2336464d6&dn=toedliches.vermaechtnis.glyphosat.stephanie.seneff.2025.600dpi.tiff.german.book.scan&xl=1564140567&tr=udp%3A%2F%2F45.9.60.30%3A6969%2Fannounce&tr=udp%3A%2F%2F185.216.179.62%3A25%2Fannounce&tr=udp%3A%2F%2F93.158.213.92%3A1337%2Fannounce&tr=udp%3A%2F%2F107.189.2.131%3A1337%2Fannounce&piece_size=4194304
 ```
 
 ## mirrors
